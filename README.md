@@ -17,8 +17,9 @@
 - [ ] Be bored   
 
 # Images in Markdown
-## Using html you can specify
+## Using html you can specify the width
 <img src="./j-unicorn.png" alt="ai portrait with electric sheep" width="300"/>
 
-
+## Using Markdown purely is cool to though 
+You can even just drag and drop it in
 ![](j-unicorn.png)
