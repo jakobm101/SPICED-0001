@@ -16,3 +16,9 @@
 - [x] Chill in repositories
 - [ ] Be bored   
 
+# Images in Markdown
+## Using html you can specify
+<img src="./j-unicorn.png" alt="ai portrait with electric sheep" width="300"/>
+
+
+![](j-unicorn.png)
