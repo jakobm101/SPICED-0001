@@ -1,12 +1,17 @@
 # SPICED-0001
-🌶️ First Repo For Getting Spicy
+🌶️ Cohort is  
+🌪️ Turbinado  
+## Frens are  
+[Sensei](https://github.com/urbinaj61/urbinaj61)  
+[Anastellar](https://github.com/AnastasiaKhudobasheva)  
 
-- [ ] There is *always* something to get done
-- [ ] Git
-- [ ] Version Control
-- [ ] Hash
-- [ ] Commit
-- [ ] Feel deployed
-- [ ] Chill in repositories
-- [ ] 
+# Achievements and Quests
+- [x] There is *always* something to get done
+- [x] Git
+- [x] Version Control
+- [x] Hash
+- [x] Commit
+- [x] Feel deployed
+- [x] Chill in repositories
+- [ ] Be bored   
 
