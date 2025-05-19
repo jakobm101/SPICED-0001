@@ -4,6 +4,7 @@
 ## Frens are  
 [Sensei](https://github.com/urbinaj61/urbinaj61)  
 [Anastellar](https://github.com/AnastasiaKhudobasheva)  
+[The Klausinator](https://github.com/Klausstille)
 
 # Achievements and Quests
 - [x] There is *always* something to get done
