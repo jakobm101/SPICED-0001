@@ -6,6 +6,12 @@
 🌙 [Anastellar](https://github.com/AnastasiaKhudobasheva)  
 👨🏼‍🏫 [The Klausinator](https://github.com/Klausstille)
 
+# Repos
+1️⃣ [Week 0001](https://github.com/spiced-academy/turbinado-web-25)
+  📜 Markdown Live Preview [_](https://markdownlivepreview.com/)
+  🙂 Skill Icons [_](https://github.com/tandpfun/skill-icons)
+
+
 # Achievements and Quests
 - [x] There is *always* something to get done
 - [x] Git
