@@ -11,7 +11,7 @@
 //  📜 Markdown Live Preview [_](https://markdownlivepreview.com/)  
 //  🙂 Skill Icons [_](https://github.com/tandpfun/skill-icons)  
 //  💾 Prep System [_](https://github.com/wd-bootcamp/web-setup)  
-  
+//  🎸 Github Token Setup [_](https://github.com/settings/tokens)  
 
 
 # Achievements and Quests
