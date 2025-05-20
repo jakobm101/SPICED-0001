@@ -8,9 +8,9 @@
 
 # Repos
 1️⃣ [Week 0001](https://github.com/spiced-academy/turbinado-web-25)  
-  📜 Markdown Live Preview [_](https://markdownlivepreview.com/)  
-  🙂 Skill Icons [_](https://github.com/tandpfun/skill-icons)  
-  💾 Prep System [_](https://github.com/wd-bootcamp/web-setup)  
+//  📜 Markdown Live Preview [_](https://markdownlivepreview.com/)  
+//  🙂 Skill Icons [_](https://github.com/tandpfun/skill-icons)  
+//  💾 Prep System [_](https://github.com/wd-bootcamp/web-setup)  
   
 
 
